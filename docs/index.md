@@ -3,6 +3,7 @@
 A quick map of docs in this repo.
 
 ## Guides
+- docs/triage-guide.md\r
 - docs/review-guide.md\r
 - docs/issue-guide.md\r
 - docs/branching.md\r
@@ -24,6 +25,7 @@ A quick map of docs in this repo.
 - `docs/roadmap.md`
 - `CHANGELOG.md`
 - `CITATION.cff`
+
 
 
 
