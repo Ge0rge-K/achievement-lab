@@ -1,0 +1,21 @@
+﻿name: Docs improvement
+description: Suggest a documentation change
+labels: [docs]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What doc change do you want?
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: Which file or section should change?
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Provide any context or examples.
