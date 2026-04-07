@@ -19,10 +19,12 @@ A quick map of docs in this repo.
 - `SUPPORT.md`
 
 ## Reference
+- docs/labels-guide.md\r
 - docs/versioning.md\r
 - `docs/roadmap.md`
 - `CHANGELOG.md`
 - `CITATION.cff`
+
 
 
 
