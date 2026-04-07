@@ -13,6 +13,7 @@ A quick map of docs in this repo.
 - `docs/troubleshooting.md`
 
 ## Templates and Checklists
+- docs/release-process.md\r
 - docs/pr-checklist.md\r
 - `docs/release-checklist.md`
 - `docs/release-notes-template.md`
@@ -25,6 +26,7 @@ A quick map of docs in this repo.
 - `docs/roadmap.md`
 - `CHANGELOG.md`
 - `CITATION.cff`
+
 
 
 
