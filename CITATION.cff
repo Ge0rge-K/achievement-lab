@@ -1,0 +1,11 @@
+﻿cff-version: 1.2.0
+title: "Achievement Lab"
+message: "If you use this repo as a reference, please cite it."
+authors:
+  - family-names: "Koniaris"
+    given-names: "George"
+    email: "gkoniaris14@gmail.com"
+repository-code: "https://github.com/Ge0rge-K/achievement-lab"
+license: MIT
+version: 0.1.1
+date-released: 2026-04-07
