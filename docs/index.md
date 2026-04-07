@@ -16,7 +16,9 @@ A quick map of docs in this repo.
 - `SUPPORT.md`
 
 ## Reference
+- docs/versioning.md\r
 - `docs/roadmap.md`
 - `CHANGELOG.md`
 - `CITATION.cff`
+
 
