@@ -1,4 +1,4 @@
-# Contributing
+﻿# Contributing
 
 Thanks for helping improve this repo. Keep contributions small and meaningful.
 
@@ -13,6 +13,12 @@ If you pair with someone, add this line to the commit message:
 
 Co-authored-by: Name <email>
 
+## Commit message examples
+- `docs: add glossary section`
+- `feat: add checklist script`
+- `fix: correct typo in README`
+- `chore: update templates`
 ## Style
 - Prefer small, focused PRs.
 - Update docs when behavior changes.
+
