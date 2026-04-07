@@ -2,6 +2,7 @@
 
 ![Release](https://img.shields.io/github/v/release/Ge0rge-K/achievement-lab)
 ![License](https://img.shields.io/github/license/Ge0rge-K/achievement-lab)
+![Docs Index](https://github.com/Ge0rge-K/achievement-lab/actions/workflows/docs-index-check.yml/badge.svg)
 A personal sandbox repo to practice GitHub workflows the right way: issues, pull requests, reviews, discussions, and releases.
 
 ## What this repo is for
@@ -18,3 +19,5 @@ A personal sandbox repo to practice GitHub workflows the right way: issues, pull
 ## Where to look next
 - `docs/index.md`
 - `CONTRIBUTING.md`
+
+
