@@ -3,6 +3,7 @@
 A quick map of docs in this repo.
 
 ## Guides
+- docs/issue-guide.md\r
 - docs/branching.md\r
 - `docs/achievements-playbook.md`
 - `docs/workflow-guide.md`
@@ -21,6 +22,7 @@ A quick map of docs in this repo.
 - `docs/roadmap.md`
 - `CHANGELOG.md`
 - `CITATION.cff`
+
 
 
 
