@@ -1,5 +1,7 @@
 ﻿# Achievement Lab
 
+![Release](https://img.shields.io/github/v/release/Ge0rge-K/achievement-lab)
+![License](https://img.shields.io/github/license/Ge0rge-K/achievement-lab)
 A personal sandbox repo to practice GitHub workflows the right way: issues, pull requests, reviews, discussions, and releases.
 
 ## What this repo is for
@@ -17,4 +19,5 @@ A personal sandbox repo to practice GitHub workflows the right way: issues, pull
 - `docs/achievements-playbook.md`
 - `docs/roadmap.md`
 - `CONTRIBUTING.md`
+
 
