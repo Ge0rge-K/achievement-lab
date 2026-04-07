@@ -16,15 +16,5 @@ A personal sandbox repo to practice GitHub workflows the right way: issues, pull
 4. Open a pull request and merge it.
 
 ## Where to look next
-- `docs/achievements-playbook.md`
-- `docs/roadmap.md`
+- `docs/index.md`
 - `CONTRIBUTING.md`
-
-
-
-
-
-
-
-
-
